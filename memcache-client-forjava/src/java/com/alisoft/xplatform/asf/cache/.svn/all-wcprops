@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/6/trunk/memcache-client-forjava/src/java/com/alisoft/xplatform/asf/cache
+END
+IMemcachedCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/6/trunk/memcache-client-forjava/src/java/com/alisoft/xplatform/asf/cache/IMemcachedCache.java
+END
+ICacheManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/6/trunk/memcache-client-forjava/src/java/com/alisoft/xplatform/asf/cache/ICacheManager.java
+END
+ICache.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/6/trunk/memcache-client-forjava/src/java/com/alisoft/xplatform/asf/cache/ICache.java
+END

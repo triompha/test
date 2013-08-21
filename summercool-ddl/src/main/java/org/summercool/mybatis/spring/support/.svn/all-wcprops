@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/13/trunk/src/main/java/org/summercool/mybatis/spring/support
+END
+SqlSessionTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/3/trunk/src/main/java/org/summercool/mybatis/spring/support/SqlSessionTemplate.java
+END
+StrategyHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/3/trunk/src/main/java/org/summercool/mybatis/spring/support/StrategyHolder.java
+END
+SqlSessionFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/9/trunk/src/main/java/org/summercool/mybatis/spring/support/SqlSessionFactoryBean.java
+END
+MultiDataSourceSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/3/trunk/src/main/java/org/summercool/mybatis/spring/support/MultiDataSourceSupport.java
+END
+TransactionHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/3/trunk/src/main/java/org/summercool/mybatis/spring/support/TransactionHolder.java
+END
+SqlSessionDaoSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/13/trunk/src/main/java/org/summercool/mybatis/spring/support/SqlSessionDaoSupport.java
+END
+ExtTransactionInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/3/trunk/src/main/java/org/summercool/mybatis/spring/support/ExtTransactionInterceptor.java
+END
+MultiDataSourceTransactionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/9/trunk/src/main/java/org/summercool/mybatis/spring/support/MultiDataSourceTransactionManager.java
+END
+TransactionInfoWrap.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/3/trunk/src/main/java/org/summercool/mybatis/spring/support/TransactionInfoWrap.java
+END

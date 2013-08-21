@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3464/sub-projects/jpetstore-6/trunk/src/main/webapp/WEB-INF/jsp/cart
+END
+Checkout.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/3419/sub-projects/jpetstore-6/trunk/src/main/webapp/WEB-INF/jsp/cart/Checkout.jsp
+END
+IncludeMyList.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/3419/sub-projects/jpetstore-6/trunk/src/main/webapp/WEB-INF/jsp/cart/IncludeMyList.jsp
+END
+Cart.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/3464/sub-projects/jpetstore-6/trunk/src/main/webapp/WEB-INF/jsp/cart/Cart.jsp
+END

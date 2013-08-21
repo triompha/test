@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/6/trunk/memcache-client-forjava/src/java.test/com/alisoft/xplatform/asf/cache
+END
+IMemcachedCacheTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/6/trunk/memcache-client-forjava/src/java.test/com/alisoft/xplatform/asf/cache/IMemcachedCacheTest.java
+END
+Node.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/6/trunk/memcache-client-forjava/src/java.test/com/alisoft/xplatform/asf/cache/Node.java
+END
+StressCacheTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/6/trunk/memcache-client-forjava/src/java.test/com/alisoft/xplatform/asf/cache/StressCacheTest.java
+END
+MemcachedClusterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/6/trunk/memcache-client-forjava/src/java.test/com/alisoft/xplatform/asf/cache/MemcachedClusterTest.java
+END

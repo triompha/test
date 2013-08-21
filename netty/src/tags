@@ -1,0 +1,34 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.7	//
+AnimalServiceImp	.\com\netty\test\AnimalServiceImp.java	/^public class AnimalServiceImp implements IAnimalService, Serializable {$/;"	c
+Client	.\com\netty\test\Client.java	/^public class Client {$/;"	c
+IAnimalService	.\com\netty\test\IAnimalService.java	/^public interface IAnimalService extends Serializable {$/;"	i
+Request	.\com\netty\test\Request.java	/^public class Request implements Serializable {$/;"	c
+Server	.\com\netty\test\Server.java	/^public class Server {$/;"	c
+com.netty.test	.\com\netty\test\AnimalServiceImp.java	/^package com.netty.test;$/;"	p
+com.netty.test	.\com\netty\test\Client.java	/^package com.netty.test;$/;"	p
+com.netty.test	.\com\netty\test\IAnimalService.java	/^package com.netty.test;$/;"	p
+com.netty.test	.\com\netty\test\Request.java	/^package com.netty.test;$/;"	p
+com.netty.test	.\com\netty\test\Server.java	/^package com.netty.test;$/;"	p
+getMethod	.\com\netty\test\Request.java	/^    public String getMethod() {$/;"	m	class:Request
+getMoneyName	.\com\netty\test\AnimalServiceImp.java	/^    public String getMoneyName() {$/;"	m	class:AnimalServiceImp
+getMoneyName	.\com\netty\test\IAnimalService.java	/^    public String getMoneyName();$/;"	m	interface:IAnimalService
+getParas	.\com\netty\test\Request.java	/^    public Object[] getParas() {$/;"	m	class:Request
+getService	.\com\netty\test\Request.java	/^    public Class getService() {$/;"	m	class:Request
+getVersion	.\com\netty\test\Request.java	/^    public String getVersion() {$/;"	m	class:Request
+main	.\com\netty\test\Client.java	/^    public static void main(String[] args) {$/;"	m	class:Client
+main	.\com\netty\test\Server.java	/^    public static void main(String[] args) {$/;"	m	class:Server
+method	.\com\netty\test\Request.java	/^    private String method; \/\/ 调用方法名称$/;"	f	class:Request	file:
+paras	.\com\netty\test\Request.java	/^    private Object[] paras; \/\/ 调用方法参数$/;"	f	class:Request	file:
+serialVersionUID	.\com\netty\test\AnimalServiceImp.java	/^    private static final long serialVersionUID = -160535222600556362L;$/;"	f	class:AnimalServiceImp	file:
+serialVersionUID	.\com\netty\test\Request.java	/^    private static final long serialVersionUID = 3701941641993894303L;$/;"	f	class:Request	file:
+service	.\com\netty\test\Request.java	/^    private Class service; \/\/ 接口类$/;"	f	class:Request	file:
+setMethod	.\com\netty\test\Request.java	/^    public void setMethod(String method) {$/;"	m	class:Request
+setParas	.\com\netty\test\Request.java	/^    public void setParas(Object[] paras) {$/;"	m	class:Request
+setService	.\com\netty\test\Request.java	/^    public void setService(Class service) {$/;"	m	class:Request
+setVersion	.\com\netty\test\Request.java	/^    public void setVersion(String version) {$/;"	m	class:Request
+version	.\com\netty\test\Request.java	/^    private String version; \/\/ 服务版本$/;"	f	class:Request	file:

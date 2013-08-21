@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/3674/sub-projects/jpetstore-6/trunk/src/main/java/org/mybatis/jpetstore/domain
+END
+Product.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/3674/sub-projects/jpetstore-6/trunk/src/main/java/org/mybatis/jpetstore/domain/Product.java
+END
+LineItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/3419/sub-projects/jpetstore-6/trunk/src/main/java/org/mybatis/jpetstore/domain/LineItem.java
+END
+Sequence.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/3674/sub-projects/jpetstore-6/trunk/src/main/java/org/mybatis/jpetstore/domain/Sequence.java
+END
+CartItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/3674/sub-projects/jpetstore-6/trunk/src/main/java/org/mybatis/jpetstore/domain/CartItem.java
+END
+Cart.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/3674/sub-projects/jpetstore-6/trunk/src/main/java/org/mybatis/jpetstore/domain/Cart.java
+END
+Order.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/3419/sub-projects/jpetstore-6/trunk/src/main/java/org/mybatis/jpetstore/domain/Order.java
+END
+Account.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/3419/sub-projects/jpetstore-6/trunk/src/main/java/org/mybatis/jpetstore/domain/Account.java
+END
+Category.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/3419/sub-projects/jpetstore-6/trunk/src/main/java/org/mybatis/jpetstore/domain/Category.java
+END
+Item.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/3419/sub-projects/jpetstore-6/trunk/src/main/java/org/mybatis/jpetstore/domain/Item.java
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/4937/sub-projects/jpetstore-6/trunk/src/main/java/org/mybatis/jpetstore/persistence
+END
+OrderMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/3419/sub-projects/jpetstore-6/trunk/src/main/java/org/mybatis/jpetstore/persistence/OrderMapper.java
+END
+AccountMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/4937/sub-projects/jpetstore-6/trunk/src/main/java/org/mybatis/jpetstore/persistence/AccountMapper.java
+END
+CategoryMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/3419/sub-projects/jpetstore-6/trunk/src/main/java/org/mybatis/jpetstore/persistence/CategoryMapper.java
+END
+ItemMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/3419/sub-projects/jpetstore-6/trunk/src/main/java/org/mybatis/jpetstore/persistence/ItemMapper.java
+END
+ProductMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/3419/sub-projects/jpetstore-6/trunk/src/main/java/org/mybatis/jpetstore/persistence/ProductMapper.java
+END
+LineItemMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/3419/sub-projects/jpetstore-6/trunk/src/main/java/org/mybatis/jpetstore/persistence/LineItemMapper.java
+END
+SequenceMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/3419/sub-projects/jpetstore-6/trunk/src/main/java/org/mybatis/jpetstore/persistence/SequenceMapper.java
+END

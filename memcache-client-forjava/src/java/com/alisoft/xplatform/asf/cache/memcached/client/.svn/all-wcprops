@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/6/trunk/memcache-client-forjava/src/java/com/alisoft/xplatform/asf/cache/memcached/client
+END
+SockIOPool.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/6/trunk/memcache-client-forjava/src/java/com/alisoft/xplatform/asf/cache/memcached/client/SockIOPool.java
+END
+LineInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/6/trunk/memcache-client-forjava/src/java/com/alisoft/xplatform/asf/cache/memcached/client/LineInputStream.java
+END
+NativeHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/6/trunk/memcache-client-forjava/src/java/com/alisoft/xplatform/asf/cache/memcached/client/NativeHandler.java
+END
+MemCachedClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/6/trunk/memcache-client-forjava/src/java/com/alisoft/xplatform/asf/cache/memcached/client/MemCachedClient.java
+END
+ContextObjectInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/6/trunk/memcache-client-forjava/src/java/com/alisoft/xplatform/asf/cache/memcached/client/ContextObjectInputStream.java
+END
+ErrorHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/6/trunk/memcache-client-forjava/src/java/com/alisoft/xplatform/asf/cache/memcached/client/ErrorHandler.java
+END
+NestedIOException.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/6/trunk/memcache-client-forjava/src/java/com/alisoft/xplatform/asf/cache/memcached/client/NestedIOException.java
+END
+ByteBufArrayInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/6/trunk/memcache-client-forjava/src/java/com/alisoft/xplatform/asf/cache/memcached/client/ByteBufArrayInputStream.java
+END

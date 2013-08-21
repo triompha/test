@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6/trunk/memcache-client-forjava/src/conf.test
+END
+memcached.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/6/trunk/memcache-client-forjava/src/conf.test/memcached.xml
+END
+memcached1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/6/trunk/memcache-client-forjava/src/conf.test/memcached1.xml
+END
+memcached_cluster.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/6/trunk/memcache-client-forjava/src/conf.test/memcached_cluster.xml
+END
+memcached_cluster2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/6/trunk/memcache-client-forjava/src/conf.test/memcached_cluster2.xml
+END
+memcached_cluster3.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/6/trunk/memcache-client-forjava/src/conf.test/memcached_cluster3.xml
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/6/trunk/memcache-client-forjava/src/conf.test/log4j.properties
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3419/sub-projects/jpetstore-6/trunk/src/main/webapp/WEB-INF/jsp/catalog
+END
+Main.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/3419/sub-projects/jpetstore-6/trunk/src/main/webapp/WEB-INF/jsp/catalog/Main.jsp
+END
+SearchProducts.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/3419/sub-projects/jpetstore-6/trunk/src/main/webapp/WEB-INF/jsp/catalog/SearchProducts.jsp
+END
+Category.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/3419/sub-projects/jpetstore-6/trunk/src/main/webapp/WEB-INF/jsp/catalog/Category.jsp
+END
+Item.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/3419/sub-projects/jpetstore-6/trunk/src/main/webapp/WEB-INF/jsp/catalog/Item.jsp
+END
+Product.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/3419/sub-projects/jpetstore-6/trunk/src/main/webapp/WEB-INF/jsp/catalog/Product.jsp
+END
