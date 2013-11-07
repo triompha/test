@@ -1,4 +1,4 @@
-package test.jms.zookeeper.zkclient;
+package test.zookeeper;
 
 
 /**

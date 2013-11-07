@@ -1,4 +1,4 @@
-package test.jms.zookeeper.zkclient;
+package test.zookeeper;
 
 /**
  * A simple example program to use DataMonitor to start and

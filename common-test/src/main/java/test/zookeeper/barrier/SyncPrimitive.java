@@ -1,4 +1,4 @@
-package test.jms.zookeeper.zkclient.barrier;
+package test.zookeeper.barrier;
 
 import java.io.IOException;
 import java.net.InetAddress;

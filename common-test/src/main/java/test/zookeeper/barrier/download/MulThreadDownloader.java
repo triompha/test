@@ -1,4 +1,4 @@
-package test.jms.zookeeper.zkclient.barrier.download;
+package test.zookeeper.barrier.download;
 
 import java.io.File;
 import java.io.InputStream;
