@@ -17,6 +17,7 @@ package com.alibaba.dubbo.rpc.protocol.rmi;
 
 import java.io.IOException;
 import java.net.SocketTimeoutException;
+import java.rmi.ConnectException;
 import java.rmi.RemoteException;
 
 import org.springframework.remoting.RemoteAccessException;
@@ -37,7 +38,7 @@ public class RmiProtocol extends AbstractProxyProtocol {
     public static final int              DEFAULT_PORT = 1099;
 
     public RmiProtocol() {
-        super(RemoteAccessException.class, RemoteException.class);
+        super(RemoteAccessException.class, RemoteException.class,ConnectException.class);
     }
 
     public int getDefaultPort() {
@@ -68,7 +69,7 @@ public class RmiProtocol extends AbstractProxyProtocol {
 
     @SuppressWarnings("unchecked")
     protected <T> T doRefer(final Class<T> serviceType, final URL url) throws RpcException {
-        final RmiProxyFactoryBean rmiProxyFactoryBean = new RmiProxyFactoryBean();
+        final RmiProxyFactoryBean rmiProxyFactoryBean = new RmiProxyFactoryBeanExtend();
         rmiProxyFactoryBean.setServiceUrl(url.toIdentityString());
         rmiProxyFactoryBean.setServiceInterface(serviceType);
         rmiProxyFactoryBean.setCacheStub(true);
