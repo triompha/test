@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="gof"
+  id="myeclipse.1303111395437"
+  context-root="/gof"
+  j2ee-spec="1.4"
+  archive="gof.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
