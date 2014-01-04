@@ -1,5 +1,7 @@
 package test.memcache.MemcachedJavaClient;
 
+import java.util.Map;
+
 import com.whalin.MemCached.*;
 
 public class MyClass {
@@ -46,8 +48,13 @@ public class MyClass {
 
 	// from here on down, you can call any of the client calls
 	public static void main(String[] args) {
+		
+		Map<String, Map<String, String>> statsSettings = 	mcc.statsSettings();
+		
+		System.out.println(statsSettings.get("10.22.10.144:11211"));
 		for (int i = 0; i < 50; i++) {
-			mcc.get("foo" + i);
+			
+//			mcc.get("foo" + i);
 			// mcc.get("foo" + i);// , "this is the valueaaaa" + i
 			//			mcc.set("foo" + i, "this is the valueaaaa" + i + 1);//
 			//			mcc.set("foo" + i, "this" + i + 1);//
