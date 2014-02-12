@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmi:version="2.1" xmlns:xmi="http://schema.omg.org/spec/XMI/2.1" xmlns:uml="http://www.eclipse.org/uml2/3.0.0/UML" xmi:id="_qb8akM37EdqwVrslYOdUDA" name="应用方定义的借口">
+  <packagedElement xmi:type="uml:Component" xmi:id="_5DsgwFFiEeCaxoIa9KC4Gw" name="Component1"/>
+  <packagedElement xmi:type="uml:Component" xmi:id="_8wMnsFFiEeCaxoIa9KC4Gw" name="应用方" clientDependency="_DQvjk1FjEeCaxoIa9KC4Gw"/>
+  <packagedElement xmi:type="uml:Component" xmi:id="_A1trkFFjEeCaxoIa9KC4Gw" name="服务方"/>
+  <packagedElement xmi:type="uml:Dependency" xmi:id="_DQvjk1FjEeCaxoIa9KC4Gw" name="应用方依赖于服务方的提供" supplier="_A1trkFFjEeCaxoIa9KC4Gw" client="_8wMnsFFiEeCaxoIa9KC4Gw"/>
+  <packagedElement xmi:type="uml:Component" xmi:id="_BFf-kFFkEeCaxoIa9KC4Gw" name="应用方" clientDependency="_qqq60FFkEeCaxoIa9KC4Gw"/>
+  <packagedElement xmi:type="uml:Component" xmi:id="_FTwuwFFkEeCaxoIa9KC4Gw" name="服务方1" clientDependency="_xaYUE1FkEeCaxoIa9KC4Gw" classifierBehavior="_I7j74FFkEeCaxoIa9KC4Gw">
+    <ownedBehavior xmi:type="uml:StateMachine" xmi:id="_I7j74FFkEeCaxoIa9KC4Gw">
+      <region xmi:id="_I7j74VFkEeCaxoIa9KC4Gw"/>
+    </ownedBehavior>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Component" xmi:id="_G8VPEFFkEeCaxoIa9KC4Gw" name="服务方2" clientDependency="_z-czUFFkEeCaxoIa9KC4Gw"/>
+  <packagedElement xmi:type="uml:Interface" xmi:id="_OCMegFFkEeCaxoIa9KC4Gw" name="interface"/>
+  <packagedElement xmi:type="uml:Dependency" xmi:id="_qqq60FFkEeCaxoIa9KC4Gw" name="应用依赖于借口而不依赖于具体实现" supplier="_OCMegFFkEeCaxoIa9KC4Gw" client="_BFf-kFFkEeCaxoIa9KC4Gw"/>
+  <packagedElement xmi:type="uml:Dependency" xmi:id="_xaYUE1FkEeCaxoIa9KC4Gw" name="服务方按借口规定实现应用方想要的功能" supplier="_OCMegFFkEeCaxoIa9KC4Gw" client="_FTwuwFFkEeCaxoIa9KC4Gw"/>
+  <packagedElement xmi:type="uml:Dependency" xmi:id="_z-czUFFkEeCaxoIa9KC4Gw" name="也即服务方也依赖于借口" supplier="_OCMegFFkEeCaxoIa9KC4Gw" client="_G8VPEFFkEeCaxoIa9KC4Gw"/>
+</uml:Model>

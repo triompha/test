@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<diagrams:Diagrams xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:di="http://www.topcased.org/DI/1.0" xmlns:diagrams="http://www.topcased.org/Diagrams/1.0" xmi:id="_mm4AIVFiEeCaxoIa9KC4Gw" activeDiagram="_toMt0FFiEeCaxoIa9KC4Gw">
+  <model href="d.uml#_qb8akM37EdqwVrslYOdUDA"/>
+  <diagrams xmi:id="_mm8RkFFiEeCaxoIa9KC4Gw" position="0,0" size="100,100" name="d" viewport="0,0">
+    <property xmi:id="_m-WE8FFiEeCaxoIa9KC4Gw" key="pageFormatName" value="A4"/>
+    <property xmi:id="_m-WE8VFiEeCaxoIa9KC4Gw" key="diagramWidth" value="840"/>
+    <property xmi:id="_m-WE8lFiEeCaxoIa9KC4Gw" key="diagramHeight" value="1188"/>
+    <property xmi:id="_m-WE81FiEeCaxoIa9KC4Gw" key="pageMarginName" value="Small Margin"/>
+    <property xmi:id="_m-WE9FFiEeCaxoIa9KC4Gw" key="diagramTopMargin" value="20"/>
+    <property xmi:id="_m-WE9VFiEeCaxoIa9KC4Gw" key="diagramBottomMargin" value="20"/>
+    <property xmi:id="_m-WE9lFiEeCaxoIa9KC4Gw" key="diagramLeftMargin" value="20"/>
+    <property xmi:id="_m-WE91FiEeCaxoIa9KC4Gw" key="diagramRightMargin" value="20"/>
+    <property xmi:id="_m-WE-FFiEeCaxoIa9KC4Gw" key="orientation" value="portrait"/>
+    <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_mm9fsFFiEeCaxoIa9KC4Gw" presentation="org.topcased.modeler.uml.classdiagram">
+      <element href="d.uml#_qb8akM37EdqwVrslYOdUDA"/>
+    </semanticModel>
+  </diagrams>
+  <diagrams xmi:id="_toMt0FFiEeCaxoIa9KC4Gw" position="0,0" size="100,100" name="componentDiagram1" viewport="0,0">
+    <property xmi:id="_t9tq0FFiEeCaxoIa9KC4Gw" key="pageFormatName" value="A4"/>
+    <property xmi:id="_t9tq0VFiEeCaxoIa9KC4Gw" key="diagramWidth" value="840"/>
+    <property xmi:id="_t9tq0lFiEeCaxoIa9KC4Gw" key="diagramHeight" value="1188"/>
+    <property xmi:id="_t9uR4FFiEeCaxoIa9KC4Gw" key="pageMarginName" value="Small Margin"/>
+    <property xmi:id="_t9uR4VFiEeCaxoIa9KC4Gw" key="diagramTopMargin" value="20"/>
+    <property xmi:id="_t9uR4lFiEeCaxoIa9KC4Gw" key="diagramBottomMargin" value="20"/>
+    <property xmi:id="_t9uR41FiEeCaxoIa9KC4Gw" key="diagramLeftMargin" value="20"/>
+    <property xmi:id="_t9uR5FFiEeCaxoIa9KC4Gw" key="diagramRightMargin" value="20"/>
+    <property xmi:id="_t9uR5VFiEeCaxoIa9KC4Gw" key="orientation" value="portrait"/>
+    <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_toMt0VFiEeCaxoIa9KC4Gw" presentation="org.topcased.modeler.uml.componentdiagram">
+      <element href="d.uml#_qb8akM37EdqwVrslYOdUDA"/>
+    </semanticModel>
+    <contained xsi:type="di:GraphNode" xmi:id="_8wKygFFiEeCaxoIa9KC4Gw" position="63,11" size="193,80">
+      <anchorage xmi:id="_DPm7IFFjEeCaxoIa9KC4Gw" graphEdge="_DQvjkFFjEeCaxoIa9KC4Gw"/>
+      <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_8wKygVFiEeCaxoIa9KC4Gw" presentation="default">
+        <element href="d.uml#_8wMnsFFiEeCaxoIa9KC4Gw"/>
+      </semanticModel>
+    </contained>
+    <contained xsi:type="di:GraphNode" xmi:id="_A1tEgFFjEeCaxoIa9KC4Gw" position="429,5" size="212,89">
+      <anchorage xmi:id="_DPm7IVFjEeCaxoIa9KC4Gw" graphEdge="_DQvjkFFjEeCaxoIa9KC4Gw"/>
+      <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_A1tEgVFjEeCaxoIa9KC4Gw" presentation="default">
+        <element href="d.uml#_A1trkFFjEeCaxoIa9KC4Gw"/>
+      </semanticModel>
+    </contained>
+    <contained xsi:type="di:GraphEdge" xmi:id="_DQvjkFFjEeCaxoIa9KC4Gw" anchor="_DPm7IFFjEeCaxoIa9KC4Gw _DPm7IVFjEeCaxoIa9KC4Gw">
+      <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_DQvjkVFjEeCaxoIa9KC4Gw" presentation="default">
+        <element href="d.uml#_DQvjk1FjEeCaxoIa9KC4Gw"/>
+      </semanticModel>
+      <contained xsi:type="di:EdgeObjectOffset" xmi:id="_DQvjklFjEeCaxoIa9KC4Gw" id="stereotypeEdgeObject"/>
+    </contained>
+    <contained xsi:type="di:GraphNode" xmi:id="_wpxzAFFjEeCaxoIa9KC4Gw" position="70,88" size="568,37">
+      <property xmi:id="_wpxzAVFjEeCaxoIa9KC4Gw" key="noteValue" value="此种方式相当于应用于服务的绑定，只用服务方的具体实现改变，或出现问题，那么应用方必然出现问题&#xD;&#xA;"/>
+      <semanticModel xsi:type="di:SimpleSemanticModelElement" xmi:id="_wpxzAlFjEeCaxoIa9KC4Gw" presentation="default" typeInfo="Note"/>
+    </contained>
+    <contained xsi:type="di:GraphNode" xmi:id="_BFewcFFkEeCaxoIa9KC4Gw" position="9,268" size="190,80">
+      <anchorage xmi:id="_qqmCUFFkEeCaxoIa9KC4Gw" graphEdge="_qqqTwFFkEeCaxoIa9KC4Gw"/>
+      <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_BFewcVFkEeCaxoIa9KC4Gw" presentation="default">
+        <element href="d.uml#_BFf-kFFkEeCaxoIa9KC4Gw"/>
+      </semanticModel>
+    </contained>
+    <contained xsi:type="di:GraphNode" xmi:id="_FTu5kFFkEeCaxoIa9KC4Gw" position="606,144" size="190,80">
+      <anchorage xmi:id="_xaV30FFkEeCaxoIa9KC4Gw" graphEdge="_xaYUEFFkEeCaxoIa9KC4Gw"/>
+      <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_FTu5kVFkEeCaxoIa9KC4Gw" presentation="default">
+        <element href="d.uml#_FTwuwFFkEeCaxoIa9KC4Gw"/>
+      </semanticModel>
+    </contained>
+    <contained xsi:type="di:GraphNode" xmi:id="_G8TZ4FFkEeCaxoIa9KC4Gw" position="551,329" size="214,80">
+      <anchorage xmi:id="_z-ZwAFFkEeCaxoIa9KC4Gw" graphEdge="_z-cMQFFkEeCaxoIa9KC4Gw"/>
+      <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_G8TZ4VFkEeCaxoIa9KC4Gw" presentation="default">
+        <element href="d.uml#_G8VPEFFkEeCaxoIa9KC4Gw"/>
+      </semanticModel>
+    </contained>
+    <contained xsi:type="di:GraphNode" xmi:id="_OBt9YFFkEeCaxoIa9KC4Gw" position="301,185" size="-1,-1">
+      <anchorage xmi:id="_qqmCUVFkEeCaxoIa9KC4Gw" graphEdge="_qqqTwFFkEeCaxoIa9KC4Gw _xaYUEFFkEeCaxoIa9KC4Gw _z-cMQFFkEeCaxoIa9KC4Gw"/>
+      <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_OBt9YVFkEeCaxoIa9KC4Gw" presentation="default">
+        <element href="d.uml#_OCMegFFkEeCaxoIa9KC4Gw"/>
+      </semanticModel>
+    </contained>
+    <contained xsi:type="di:GraphNode" xmi:id="_jcL64FFkEeCaxoIa9KC4Gw" position="272,146" size="128,38">
+      <property xmi:id="_jcMh8FFkEeCaxoIa9KC4Gw" key="noteValue" value="服务方定义的接口&#xD;&#xA;"/>
+      <semanticModel xsi:type="di:SimpleSemanticModelElement" xmi:id="_jcMh8VFkEeCaxoIa9KC4Gw" presentation="default" typeInfo="Note"/>
+    </contained>
+    <contained xsi:type="di:GraphEdge" xmi:id="_qqqTwFFkEeCaxoIa9KC4Gw" anchor="_qqmCUFFkEeCaxoIa9KC4Gw _qqmCUVFkEeCaxoIa9KC4Gw">
+      <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_qqqTwVFkEeCaxoIa9KC4Gw" presentation="default">
+        <element href="d.uml#_qqq60FFkEeCaxoIa9KC4Gw"/>
+      </semanticModel>
+      <contained xsi:type="di:EdgeObjectOffset" xmi:id="_qqqTwlFkEeCaxoIa9KC4Gw" id="stereotypeEdgeObject"/>
+    </contained>
+    <contained xsi:type="di:GraphEdge" xmi:id="_xaYUEFFkEeCaxoIa9KC4Gw" anchor="_xaV30FFkEeCaxoIa9KC4Gw _qqmCUVFkEeCaxoIa9KC4Gw">
+      <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_xaYUEVFkEeCaxoIa9KC4Gw" presentation="default">
+        <element href="d.uml#_xaYUE1FkEeCaxoIa9KC4Gw"/>
+      </semanticModel>
+      <contained xsi:type="di:EdgeObjectOffset" xmi:id="_xaYUElFkEeCaxoIa9KC4Gw" id="stereotypeEdgeObject"/>
+    </contained>
+    <contained xsi:type="di:GraphEdge" xmi:id="_z-cMQFFkEeCaxoIa9KC4Gw" anchor="_z-ZwAFFkEeCaxoIa9KC4Gw _qqmCUVFkEeCaxoIa9KC4Gw">
+      <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_z-cMQVFkEeCaxoIa9KC4Gw" presentation="default">
+        <element href="d.uml#_z-czUFFkEeCaxoIa9KC4Gw"/>
+      </semanticModel>
+      <contained xsi:type="di:EdgeObjectOffset" xmi:id="_z-cMQlFkEeCaxoIa9KC4Gw" id="stereotypeEdgeObject"/>
+    </contained>
+    <contained xsi:type="di:GraphNode" xmi:id="__f5dQFFkEeCaxoIa9KC4Gw" position="11,410" size="744,98">
+      <property xmi:id="__f5dQVFkEeCaxoIa9KC4Gw" key="noteValue" value="这样控制权实际上就由服务方转向了应用方，我定义我想要的借口，你具体实现按照我想要的规则来实现，由我来调用。&#xD;&#xA;即使某个服务方出现问题，我可以换服务方。并且，如果我想换一种实现方式轻而易举。"/>
+      <semanticModel xsi:type="di:SimpleSemanticModelElement" xmi:id="__f5dQlFkEeCaxoIa9KC4Gw" presentation="default" typeInfo="Note"/>
+    </contained>
+  </diagrams>
+  <subdiagrams xmi:id="_-5UQUFFiEeCaxoIa9KC4Gw">
+    <model href="d.uml#_8wMnsFFiEeCaxoIa9KC4Gw"/>
+  </subdiagrams>
+  <subdiagrams xmi:id="_I7wwMFFkEeCaxoIa9KC4Gw">
+    <model href="d.uml#_I7j74FFkEeCaxoIa9KC4Gw"/>
+  </subdiagrams>
+</diagrams:Diagrams>
