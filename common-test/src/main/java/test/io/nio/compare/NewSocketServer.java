@@ -20,6 +20,16 @@ import java.nio.charset.CharsetDecoder;
 import java.nio.charset.CharsetEncoder;
 import java.util.Iterator;
 
+/****
+ * 
+ * Socket的Channel在Selector上注册某一种动作，
+ * Selector通过select操作，监视所有在该Selector注册过的Channel的对应的动作，
+ * 如果监测到某一对应的动作，则返回selectedKeys，自己手动取到各个SelectionKey进行相应的处理。
+ * 当然NIO不仅可以接受Socket的Channel，还有文件操作等其他IO操作。
+ * 
+ * @author triompha
+ *
+ */
 public class NewSocketServer {
 
 	private static final int port = 9527;

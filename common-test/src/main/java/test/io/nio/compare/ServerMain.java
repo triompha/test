@@ -3,7 +3,15 @@ package test.io.nio.compare;
 import java.io.*;
 import java.net.ServerSocket;
 import java.net.Socket;
-
+/****
+ * 
+ * 
+ * 传统的Java 的IO，利用Socket建立服务器，接收客户端连接，一般都是为每一个连接建立一个线程，如果连接数巨大，那么服务器开销也将巨大。。
+ * 
+ * 
+ * @author triompha
+ *
+ */
 public class ServerMain {
 
 	public static void main(String[] args) {
