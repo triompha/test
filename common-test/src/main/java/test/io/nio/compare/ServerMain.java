@@ -8,6 +8,7 @@ public class ServerMain {
 
 	public static void main(String[] args) {
 
+		//建立服务器socket，与客户端的socket进行通信。
 		class SocketThread extends Thread {
 
 			private Socket socket;
@@ -35,7 +36,9 @@ public class ServerMain {
 					command = temp[0]; // 命令 是put还是get
 					String filename = temp[1]; // 文件名
 
-					File file = new File("C:\\", filename);// 假设放在C盘
+					File file = new File("/home/triompha/", filename);// 假设放在C盘
+					//用户想get文件，也就是用户想下载文件，
+					//那么对服务器文件进行检查，如果存在则传递给客户端的socket
 					if (command.equals("get")) {
 						if (!file.exists()) {
 							// dos.writeUTF("notexists");
@@ -61,7 +64,7 @@ public class ServerMain {
 
 						fis.close();
 						System.out.println("文件传输完成");
-					} else {
+					} else {   //用户想上传文件，服务器建立新文件，等待用户上传。
 						// dos.writeUTF("UploadReady");
 						dos.write("UploadReady".getBytes());
 						dos.flush();
@@ -91,7 +94,7 @@ public class ServerMain {
 			ServerSocket server = new ServerSocket(9527, 300); // 端口号9527
 																// 允许最大连接数300
 			while (true) {
-				Socket socket = server.accept();
+				Socket socket = server.accept();  //阻塞，等待客户端链接。
 				System.out.println("收到第" + (++index) + "个连接");
 				new SocketThread(socket).start(); // 对每个连接创建一个线程
 			}

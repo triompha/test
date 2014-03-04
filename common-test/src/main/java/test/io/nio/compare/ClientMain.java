@@ -8,7 +8,7 @@ import java.util.Scanner;
 public class ClientMain {
 
 	private int ServerPort = 9527;
-	private String ServerAddress = "192.168.1.154";
+	private String ServerAddress = "10.2.146.83";
 	private String GetOrPut = "get";
 	private String local_filename = "";
 	private String remote_filename = "";
@@ -21,14 +21,16 @@ public class ClientMain {
 		public void run() {
 			try {
 
-				File file = new File("C:\\", local_filename); // 假设文件放在C盘
+				File file = new File("/home/triompha/bin/", local_filename); // 假设文件放在C盘
 				if (!file.exists() && GetOrPut.equals("put")) {
 					System.out.println("本地没有这个文件，无法上传！");
 					return;
 				}
 
 				InetAddress loalhost = InetAddress.getLocalHost();
-				Socket socket = new Socket(ServerAddress, ServerPort, loalhost, 44);
+				Socket socket = new Socket(ServerAddress, ServerPort);
+//				Socket socket = new Socket(ServerAddress, ServerPort, loalhost, 44);
+				
 				// 服务器IP地址 端口号 本机IP 本机端口号
 				DataInputStream dis = new DataInputStream(socket.getInputStream());
 				DataOutputStream dos = new DataOutputStream(socket.getOutputStream());
