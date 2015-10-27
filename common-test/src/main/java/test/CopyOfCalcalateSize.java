@@ -1,14 +1,7 @@
 package test;
 
-import java.io.ByteArrayOutputStream;
 import java.io.IOException;
-import java.io.ObjectOutputStream;
-import java.io.Serializable;
-import java.util.ArrayList;
-import java.util.List;
 import java.util.TreeMap;
-
-import org.apache.commons.lang.SerializationUtils;
 
 public class CopyOfCalcalateSize {
 	
