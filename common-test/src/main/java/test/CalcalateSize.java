@@ -18,6 +18,7 @@ public class CalcalateSize {
 	//经计算得出每个Long型对象有 14 Byte
 	//List 对象占据 122 Byte
 	public static void main(String[] args) throws IOException {
+		System.out.println(System.currentTimeMillis());
 		
 		
 		List<Long> uids = new ArrayList<Long>();

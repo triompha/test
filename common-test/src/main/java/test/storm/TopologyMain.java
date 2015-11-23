@@ -14,7 +14,7 @@ import backtype.storm.tuple.Fields;
  * 
  * ~/Downloads/apache-storm-0.9.4/bin/storm jar common-test-0.0.1-SNAPSHOT.jar test.storm.TopologyMain
  * 
- * main中的文件位置需要是在服务器上的位置
+ * main中需要计算的文件位置需要是在服务器上
  * 
  * 
  * 
